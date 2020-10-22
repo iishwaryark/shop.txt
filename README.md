@@ -1,4 +1,4 @@
-My shopping list
+My shopping list <3
 
 Eye liner
 primer
