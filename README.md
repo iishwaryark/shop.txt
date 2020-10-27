@@ -8,3 +8,4 @@ lipstick
 moisturizer
 sun screen
 foundation
+Highlighter
